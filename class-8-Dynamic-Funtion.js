@@ -5,14 +5,4 @@ var mern5 = function (parameter) {
 }
 console.log (mern5('Hello Wordl'));
 
-var mern6 = function (parameter) {
-    return parameter;
-}
-console.log (mern6('Kamrul Islam'));
-
-var suhana = function (parameter) {
-    return parameter;
-}
-console.log (suhana('Suhana Islam'));
-
 // Learn More: https://youtu.be/eISz-xBXeyI 
